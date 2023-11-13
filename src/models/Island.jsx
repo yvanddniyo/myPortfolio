@@ -13,7 +13,7 @@ import islandScene from '../assets/3d/island.glb'
 import { a } from '@react-spring/three'
 
 
-const Island = ({ isRotating, setIsRotating, ...props }) => {
+const Island = ({ isRotating, setIsRotating, setCurrentStage, ...props }) => {
   const islandRef = useRef();
 
   const { gl, viewport } = useThree();
