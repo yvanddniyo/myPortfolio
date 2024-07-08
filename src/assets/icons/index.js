@@ -26,8 +26,22 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import postgresql from "./postgresql.svg"
+import sequelize from "./sequelize.jpg"
+import gsap from "./gsap.svg"
+import aws from "./aws.svg"
+import nike from "./nike.svg"
+import logoafrica from "./logoafrica.png"
+import youtube from "./youtube.svg"
 
 export {
+    nike,
+    logoafrica,
+    youtube,
+    postgresql,
+    aws,
+    gsap,
+    sequelize,
     css,
     express,
     git,

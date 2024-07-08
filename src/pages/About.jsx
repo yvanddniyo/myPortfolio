@@ -35,7 +35,7 @@ const About = () => {
         </div>
       </div>
 
-      {/* <div className="py-16">
+      <div className="py-16">
         <h3 className='subhead-text'>Work Experience </h3>
         <div className="mt-5 flex flex-col gap-3 text-slate-500">
           <p>
@@ -80,8 +80,8 @@ const About = () => {
               ))}
             </VerticalTimeline>
           </div>
-        </div> */}
-      {/* </div> */}
+        </div>
+      </div>
       <hr className=' border-slate-200' />
       <CTA />
     </section>
