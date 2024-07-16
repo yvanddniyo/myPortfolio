@@ -54,7 +54,7 @@ const Contact = () => {
       setCurrentAnimation('idle')
       console.log(error);
 
-      showAlert({ show: true, text: "I didn't receive your message", type: 'danger' })//TODO: show error message
+      showAlert({ show: true, text: "I didn't receive your message", type: 'danger' })
     })
 
   };
