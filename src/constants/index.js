@@ -157,27 +157,27 @@ export const experiences = [
         ],
     },
     {
+        title: "Full stack Developer Freelancer",
+        company_name: "Upwork",
+        icon: upwork,
+        iconBg: "#a2d2ff",
+        date: "Jan 2023 - July 2023",
+        points: [
+            "Built a strong reputation by maintaining a perfect 5★ rating with high client satisfaction and 100% job success rate - earned the Top Rated title and currently representing top 10% of talent on the platform.",
+            "Continue to provide a proficient level of service with or without requirements - including design/ development/ configuration/ troubleshooting.",
+        ],
+    },
+    {
         title: "Full Stack Developer",
         company_name: "ATLP",
         icon: Andela,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "Feb 2024 -  present",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
             "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
-    {
-        title: "Full stack Developer Freelancer",
-        company_name: "Upwork",
-        icon: upwork,
-        iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
-        points: [
-            "Built a strong reputation by maintaining a perfect 5★ rating with high client satisfaction and 100% job success rate - earned the Top Rated title and currently representing top 10% of talent on the platform.",
-            "Continue to provide a proficient level of service with or without requirements - including design/ development/ configuration/ troubleshooting.",
         ],
     },
 ];
